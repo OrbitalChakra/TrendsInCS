@@ -1,2 +1,3 @@
 # TrendsInCS
 Project for CS-370
+In this project, I was able to find an optimal path from one point to another in a maze. This was achieved by using the deep learning technique of Q-learning. I was given code to initialize the maze and given functions that mimic the actions that the intelligent agent could proceed with. Looking at this project I learned how valuable it is to define your design constraints and know what problem you are solving. Without this knowledge, I would have been training an AI that would have never made it to its goal. Allowing access to this technology means there must be a way for publishers to terminate the processes their AI initiates.  
